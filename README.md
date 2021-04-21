@@ -4,7 +4,9 @@
         <h1>Hola 👋, mi nombre es Nacho  </h1>
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
         
-Apasionado de la programacion y las computadoras, este 2021 me recibo de Analista en Sistemas! <br>
+Apasionado de la programacion y las computadoras <br>
+Este 2021 me recibo de Analista en Sistemas! <br>
+Programador Junior/Trainee <br>
 
 Habilidades: Java / C# / HTML / PHP / SQL
 
