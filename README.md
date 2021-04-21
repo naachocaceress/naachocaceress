@@ -4,6 +4,8 @@ Apasionado de la programacion y las computadoras, este 2021 me recibo de Analist
 
 Habilidades: Java / C# / HTML / PHP / SQL
 
+- 📄 Lenguajes Favoritos: C# / Java</h3>
+- ⚒  Herramientas que uso: Visual Studio / Git / GitHub</h3>
 - 🔭 Estoy trabajando en Vidon Bar (mi trabajo y donde tambien creo algunos programitas) 
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
 
