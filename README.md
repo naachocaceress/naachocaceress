@@ -10,7 +10,7 @@ Programador Junior/Trainee <br>
 
 Habilidades: Java / C# / HTML / PHP / SQL / VB.NET
 
-- 📄 Lenguajes Favoritos: C# / Java</h3>
+- 📄 Lenguajes Favoritos: .NET / C# / Java</h3>
 - ⚒  Herramientas que uso: Visual Studio / Sublime Text / Git / GitHub</h3>
 - 🔭 Estoy trabajando en Vidon Bar (mi trabajo y donde tambien creo algunos programitas) 
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
