@@ -5,7 +5,7 @@
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
         
 Apasionado de la programacion y las computadoras <br>
-Este 2022 me recibo de Analista en Sistemas! <br>
+Este 2023 me recibo de Analista en Sistemas! <br>
 Programador Junior/Trainee <br>
 
 Habilidades: Java / C# / HTML / PHP / SQL / VB.NET
