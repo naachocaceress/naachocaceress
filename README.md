@@ -5,14 +5,14 @@
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
         
 Apasionado de la programacion y las computadoras <br>
-Este 2023 me recibo de Analista en Sistemas! <br>
-Programador Junior/Trainee <br>
+Este 2024 me recibo de Analista en Sistemas! <br>
+Programador FullStack <br>
 
-Habilidades: Java / C# / HTML / PHP / SQL / VB.NET
+Habilidades: .NET / ASP / C# / HTML / CSS / JS / SQL SERVER
 
-- 📄 Lenguajes Favoritos: .NET / C# / Java</h3>
-- ⚒  Herramientas que uso: Visual Studio / Sublime Text / Git / GitHub</h3>
-- 🔭 Estoy trabajando en Vidon Bar (mi trabajo y donde tambien creo algunos programitas) 
+- 📄 Lenguajes Favoritos: .NET / C# / SQL</h3>
+- ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub</h3>
+- 🔭 Estoy trabajando como analista en Vidon Bar 
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
 
 
