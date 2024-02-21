@@ -5,8 +5,7 @@
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
         
 Apasionado de la programacion y las computadoras <br>
-Analista de Sistemas <br>
-Programador FullStack <br>
+Analista de Sistemas / Programador FullStack <br>
 
 Habilidades: .NET / ASP / C# / HTML / CSS / JS / SQL SERVER
 
