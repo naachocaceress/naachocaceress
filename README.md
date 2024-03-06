@@ -3,7 +3,6 @@
       <td>
         <h1>Hola 👋, mi nombre es Nacho  </h1>
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
-
         Soy <strong> Analista de Sistemas y Programador FullStack </strong> <br>
         Ademas apasionado de la programacion, las computadoras, tecnologia y obviamente los videojuegos :D <br>
 
