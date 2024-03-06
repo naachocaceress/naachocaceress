@@ -3,9 +3,9 @@
       <td>
         <h1>Hola 👋, mi nombre es Nacho  </h1>
         <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
-        
-Apasionado de la programacion, las computadoras y tecnologia en general :D <br>
-- Analista de Sistemas / Programador FullStack <br>
+
+        Soy <strong> Analista de Sistemas y Programador FullStack </strong> <br>
+        Ademas apasionado de la programacion, las computadoras, tecnologia y obviamente los videojuegos :D <br>
 
 Habilidades: .NET / ASP / C# / HTML / CSS / JS / SQL SERVER
 
