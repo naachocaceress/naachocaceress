@@ -7,11 +7,11 @@
         Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br>
         
 
-Habilidades: .NET / ASP / C# / HTML / CSS / JS / SQL SERVER
+Habilidades: REACT / .NET CORE / CSS / JS / C# / SQL SERVER / MYSQL / HTML
 
-- 📄 Lenguajes Favoritos: .NET / C# / SQL</h3>
-- ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub</h3>
-- 🔭 Estoy trabajando como analista en Vidon Bar 
+- 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL</h3>
+- ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub / Postman</h3>
+- 🔭 Estoy trabajando como analista en Vidon Bar y Freelancer
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
 
 
