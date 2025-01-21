@@ -11,7 +11,7 @@ Habilidades: REACT / .NET CORE / CSS / JS / C# / SQL SERVER / MYSQL / HTML
 
 - 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL</h3>
 - ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub / Postman</h3>
-- 🔭 Estoy trabajando como analista en Vidon Bar y Freelancer
+- 🔭 Estoy trabajando como analista en sistemas y desarrollador en Vidón Bar. También Freelancer
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
 
 
