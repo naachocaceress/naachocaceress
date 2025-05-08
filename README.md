@@ -7,9 +7,9 @@
         Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br>
         
 
-Habilidades: REACT / .NET CORE / CSS / JS / C# / SQL SERVER / MYSQL / HTML
+Habilidades: REACT / .NET CORE / CSS / JS / TS / C# / SQL SERVER / MYSQL / HTML / TAILWIND / BOOTSTRAP
 
-- 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL</h3>
+- 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL / TAILWIND</h3>
 - ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub / Postman</h3>
 - 🔭 Estoy trabajando como analista en sistemas y desarrollador en Vidón Bar. También Freelancer
 - 📫 Cómo contactarme: naachocaceress@gmail.com 
