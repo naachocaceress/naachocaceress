@@ -12,7 +12,7 @@ Habilidades: REACT / .NET CORE / CSS / JS / TS / C# / SQL SERVER / MYSQL / HTML 
 - 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL / TAILWIND</h3>
 - ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub / Postman</h3>
 - 🔭 Estoy trabajando como analista en sistemas y desarrollador en Vidón Bar. También Freelancer
-- 📫 Cómo contactarme: naachocaceress@gmail.com o <a href="https://www.linkedin.com/in/nacho-caceres/">LinkedIn</a>
+- 📫 Cómo contactarme: naachocaceress@gmail.com o <a href="https://www.linkedin.com/in/nacho-caceres/">LinkedIn</a> <br />
 
  </td>
       <td>![resource](https://user-images.githubusercontent.com/55108524/115559047-b40e7e00-a289-11eb-9f70-c4c465678cf0.gif)
