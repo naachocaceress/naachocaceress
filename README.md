@@ -15,7 +15,8 @@ Habilidades: REACT / .NET CORE / CSS / JS / TS / C# / SQL SERVER / MYSQL / HTML 
 - 📫 Cómo contactarme: naachocaceress@gmail.com o <a href="https://www.linkedin.com/in/nacho-caceres/">LinkedIn</a> <br />
 
  </td>
-      <td>![resource](https://user-images.githubusercontent.com/55108524/115559047-b40e7e00-a289-11eb-9f70-c4c465678cf0.gif)
+      <td>
+  <img src="https://user-images.githubusercontent.com/55108524/115559047-b40e7e00-a289-11eb-9f70-c4c465678cf0.gif" alt="resource" />
 </td>
     </tr>
 </table>
