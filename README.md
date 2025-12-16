@@ -2,16 +2,14 @@
     <tr>
       <td>
         <h1>Hola 👋, mi nombre es Nacho  </h1>
-        <h4> En realidad Ignacio, pero me gusta mas Nacho </h4> 
-        Soy <strong> Analista de Sistemas y Programador FullStack especializado en Frotend </strong> <br>
+        <h4> En realidad Ignacio, pero mis amigos me llaman Nacho </h4> 
+        Soy <strong> Analista de Sistemas y Desarrollador FullStack especializado en Frotend & UX/UI </strong> <br>
         Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br>
         
 
-Habilidades: REACT / .NET CORE / CSS / JS / TS / C# / SQL SERVER / MYSQL / HTML / TAILWIND / BOOTSTRAP
-
-- 📄 Habilidades Favoritas: REACT / .NET CORE / C# / SQL / TAILWIND</h3>
-- ⚒  Herramientas que uso: Visual Studio / Visual Code / Git / GitHub / Postman</h3>
-- 🔭 Estoy trabajando como analista en sistemas y desarrollador en Vidón Bar. También Freelancer
+- 📄 Stack principal: REACT / TAILWIND / TYPESCRIPT / .NET / C# / SQL SERVER</h3>
+- 🕍 También utilizo: HTML / CSS / JS / BOOTSTRAP / MYSQL 
+- ⚒  Herramientas que uso: VS Code / Visual Studio / Git / GitHub / Postman / Figma / Photoshop / Illustrator / Windows Server</h3>
 - 📫 Cómo contactarme: naachocaceress@gmail.com o <a href="https://www.linkedin.com/in/nacho-caceres/">LinkedIn</a> <br />
 
  </td>
