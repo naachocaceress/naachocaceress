@@ -5,7 +5,9 @@
         <h4> En realidad Ignacio, pero mis amigos me llaman Nacho </h4> 
         Soy <strong> Analista de Sistemas y Desarrollador FullStack especializado en Frotend & UX/UI </strong> <br>
         Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br>
-        
+          
+        Mi Portfolio: https://nacho.uno/
+        <br><br>
 
 - 📄 Stack principal: REACT / TAILWIND / TYPESCRIPT / .NET / C# / SQL SERVER</h3>
 - 🕍 También utilizo: HTML / CSS / JS / BOOTSTRAP / MYSQL 
