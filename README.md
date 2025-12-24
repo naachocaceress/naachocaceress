@@ -4,7 +4,7 @@
         <h1>Hola 👋, mi nombre es Nacho  </h1>
         <h4> En realidad Ignacio, pero mis amigos me llaman Nacho </h4> 
         Soy <strong> Analista de Sistemas y Desarrollador FullStack especializado en Frotend & UX/UI </strong> <br>
-        Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br><p>Mi Portfolio:</p> <a href="https://nacho.uno/">https://nacho.uno/</a>
+        Ademas apasionado de la programacion, las computadoras, tecnologia en general y obviamente los videojuegos :D <br><br>Mi Portfolio: <a href="https://nacho.uno/">https://nacho.uno/</a>
         <br><br>
           
         
